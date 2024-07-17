@@ -1,0 +1,16 @@
+
+
+.box{
+    width: 150px;
+    height: 150px;
+    background-color: bisque;
+    border: 1px solid black;
+    display: inline-block;
+    margin: -2px;
+    font-size: 90px;
+    text-align: center;
+}
+
+.black{
+    background-color: green;
+}
